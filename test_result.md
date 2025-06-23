@@ -195,9 +195,9 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Contact form API endpoint"
     - "Professional portfolio layout"
     - "Contact form functionality"
+    - "Responsive design and animations"
   stuck_tasks: []
   test_all: true
   test_priority: "high_first"
